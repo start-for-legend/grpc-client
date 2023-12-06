@@ -3,5 +3,5 @@ server:
 grpc:
   client:
     test:
-      address: 'static://127.0.0.1:9090'
-      negotiationtype: plaintext
+      address: 'static://127.0.0.1:9099'
+      negotiation-type: plaintext
